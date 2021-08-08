@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-08T05:50:43.634Z</updated>
+  <updated>2021-08-08T06:15:19.356Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,10 +21,10 @@
     <link href="http://example.com/2021/08/07/hello-world/"/>
     <id>http://example.com/2021/08/07/hello-world/</id>
     <published>2021-08-08T03:28:16.925Z</published>
-    <updated>2021-08-08T05:50:43.634Z</updated>
+    <updated>2021-08-08T06:15:19.356Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Welcome to Zhengrong Li’s personal website. Here, I will show the detail of my projects and post some technical article. If there are anything wrong feel free to contact me. Also, I am job seeking now ^ _ ^&lt;/p&gt;</summary>
     
     
     
